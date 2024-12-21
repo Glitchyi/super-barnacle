@@ -1,3 +1,4 @@
 # Readme
-I added a few commits what you care
-ddd
+I had the mind to change a few lines
+
+why is my monitor flashing edak edak?
